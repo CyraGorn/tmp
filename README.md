@@ -1,2 +1,1 @@
-import os
-os.system('cat ./.env')
+import os; os.system('ls')
